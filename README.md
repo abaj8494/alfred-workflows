@@ -3,7 +3,7 @@
 
 # Quadratic
 - whilst teaching, sometimes I need to quickly find the roots of a quadratic
-- as such, I have taken one of my C programs from [here]() and configured alfred to return the roots
+- as such, I have taken one of my C programs from [here](https://github.com/br1ttle/c-scripts) and configured alfred to return the roots
 
 ![screenshot](quadratic-demo.png)
 
